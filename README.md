@@ -1,3 +1,3 @@
-# VisualBasic-Lab2
+# VisualBasic-Labs
 
 This Repository is for my visual Basic Class
