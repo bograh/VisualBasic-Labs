@@ -57,6 +57,7 @@ Partial Class Lab2
         Me.TruckPictureBox = New System.Windows.Forms.PictureBox()
         Me.CommercialPictureBox = New System.Windows.Forms.PictureBox()
         Me.AutoPictureBox = New System.Windows.Forms.PictureBox()
+        Me.PrintForm1 = New Microsoft.VisualBasic.PowerPacks.Printing.PrintForm(Me.components)
         Me.CustomerInformationGroupBox.SuspendLayout()
         Me.VehicleTypeGroupBox.SuspendLayout()
         Me.ColorGroupBox.SuspendLayout()
@@ -399,11 +400,20 @@ Partial Class Lab2
         Me.AutoPictureBox.TabIndex = 21
         Me.AutoPictureBox.TabStop = False
         '
+        'PrintForm1
+        '
+        Me.PrintForm1.DocumentName = "document"
+        Me.PrintForm1.Form = Me
+        Me.PrintForm1.PrintAction = System.Drawing.Printing.PrintAction.PrintToPreview
+        Me.PrintForm1.PrinterSettings = CType(resources.GetObject("PrintForm1.PrinterSettings"), System.Drawing.Printing.PrinterSettings)
+        Me.PrintForm1.PrintFileName = Nothing
+        '
         'Lab2
         '
         Me.AcceptButton = Me.DisplayBtn
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoSize = True
         Me.BackColor = System.Drawing.SystemColors.Control
         Me.CancelButton = Me.ResetBtn
         Me.ClientSize = New System.Drawing.Size(800, 450)
@@ -421,6 +431,8 @@ Partial Class Lab2
         Me.Controls.Add(Me.ColorGroupBox)
         Me.Controls.Add(Me.CustomerInformationGroupBox)
         Me.Name = "Lab2"
+        Me.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Block Repair Parts - by Bernard Ograh"
         Me.CustomerInformationGroupBox.ResumeLayout(False)
         Me.CustomerInformationGroupBox.PerformLayout()
@@ -469,4 +481,5 @@ Partial Class Lab2
     Friend WithEvents ToolTip2 As ToolTip
     Friend WithEvents ToolTip4 As ToolTip
     Friend WithEvents ToolTip3 As ToolTip
+    Friend WithEvents PrintForm1 As PowerPacks.Printing.PrintForm
 End Class

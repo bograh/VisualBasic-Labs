@@ -1,6 +1,8 @@
 ﻿' Name: Bernard Ograh
 ' Date: 
 
+Imports System.Drawing.Printing
+
 Public Class Lab2
 
     Private Sub DisplayBtn_Click(sender As Object, e As EventArgs) Handles DisplayBtn.Click
@@ -69,7 +71,9 @@ Public Class Lab2
     End Sub
 
     Private Sub PrintBtn_Click(sender As Object, e As EventArgs) Handles PrintBtn.Click
-
+        Me.Width = Width - 125
+        PrintForm1.PrintAction = Printing.PrintAction.PrintToPreview
+        PrintForm1.Print()
     End Sub
 
     Private Sub ExitBtn_Click(sender As Object, e As EventArgs) Handles ExitBtn.Click
@@ -181,6 +185,10 @@ Public Class Lab2
         GreenRadioButton.ForeColor = Color.White
         BlueRadioButton.ForeColor = Color.White
 
+
+    End Sub
+
+    Private Sub Lab2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
 End Class

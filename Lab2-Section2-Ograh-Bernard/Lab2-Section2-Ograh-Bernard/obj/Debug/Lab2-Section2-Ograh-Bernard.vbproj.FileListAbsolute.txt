@@ -20,3 +20,18 @@ C:\Users\Ograh\source\repos\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bern
 C:\Users\Ograh\source\repos\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.exe
 C:\Users\Ograh\source\repos\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.xml
 C:\Users\Ograh\source\repos\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.pdb
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\bin\Debug\Lab2-Section2-Ograh-Bernard.exe.config
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\bin\Debug\Lab2-Section2-Ograh-Bernard.exe
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\bin\Debug\Lab2-Section2-Ograh-Bernard.pdb
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\bin\Debug\Lab2-Section2-Ograh-Bernard.xml
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.vbproj.AssemblyReference.cache
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.vbproj.SuggestedBindingRedirects.cache
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\WindowsApp1.Lab2.resources
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\WindowsApp1.Resources.resources
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.vbproj.GenerateResource.cache
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.vbproj.CoreCompileInputs.cache
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.exe
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.xml
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.pdb
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Programming Projects\Visual basic\VisualBasic-Labs\Lab2-Section2-Ograh-Bernard\Lab2-Section2-Ograh-Bernard\obj\Debug\Lab2-Section2-Ograh-Bernard.vbproj.CopyComplete
