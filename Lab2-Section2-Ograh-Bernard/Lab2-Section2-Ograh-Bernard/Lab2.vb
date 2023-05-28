@@ -1,8 +1,6 @@
 ﻿' Name: Bernard Ograh
 ' Date: 
 
-Imports System.Drawing.Printing
-
 Public Class Lab2
 
     Private Sub DisplayBtn_Click(sender As Object, e As EventArgs) Handles DisplayBtn.Click
@@ -188,7 +186,4 @@ Public Class Lab2
 
     End Sub
 
-    Private Sub Lab2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
 End Class
