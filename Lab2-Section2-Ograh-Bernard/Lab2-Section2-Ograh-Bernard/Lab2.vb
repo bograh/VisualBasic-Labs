@@ -69,7 +69,6 @@ Public Class Lab2
     End Sub
 
     Private Sub PrintBtn_Click(sender As Object, e As EventArgs) Handles PrintBtn.Click
-        Me.Width = Width - 125
         PrintForm1.PrintAction = Printing.PrintAction.PrintToPreview
         PrintForm1.Print()
     End Sub
