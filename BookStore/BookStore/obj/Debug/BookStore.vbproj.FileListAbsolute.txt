@@ -1,0 +1,13 @@
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\bin\Debug\BookStore.xml
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.vbproj.AssemblyReference.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.vbproj.SuggestedBindingRedirects.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.Resources.resources
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.vbproj.GenerateResource.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.vbproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.xml
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\BookStore\BookStore\obj\Debug\BookStore.pdb
