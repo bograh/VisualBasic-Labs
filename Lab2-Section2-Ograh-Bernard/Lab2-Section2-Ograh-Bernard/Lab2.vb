@@ -80,6 +80,10 @@ Public Class Lab2
     Private Sub VisibilityCheckBox_CheckedChanged(sender As Object, e As EventArgs) Handles VisibilityCheckBox.CheckedChanged
         VehicleInfoTextBox.Visible = VisibilityCheckBox.Checked
         MultilineTextBox.Visible = VisibilityCheckBox.Checked
+        VehicleInfoLabel.Visibe = VisibilityCheckBox.Checked
+        AutoPictureBox.Visible = VisibilityCheckBox.Checked
+        TruckPictureBox.Visible = VisibilityCheckBox.Checked
+        CommercialPictureBox.Visible = VisibilityCheckBox.Checked
 
     End Sub
 
