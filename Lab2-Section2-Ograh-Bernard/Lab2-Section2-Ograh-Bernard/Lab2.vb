@@ -4,7 +4,7 @@
 Public Class Lab2
 
     Private Sub DisplayBtn_Click(sender As Object, e As EventArgs) Handles DisplayBtn.Click
-        Dim VehicleName
+        Dim VehicleName As String
 
         If AutoRadioButton.Checked Then
             ' When Auto vehicle type radio checked, display picture for Auto
