@@ -4,7 +4,7 @@
 Public Class Lab2
 
     Private Sub DisplayBtn_Click(sender As Object, e As EventArgs) Handles DisplayBtn.Click
-        Dim VehicleName
+        Dim VehicleName As String
 
         If AutoRadioButton.Checked Then
             ' When Auto vehicle type radio checked, display picture for Auto
@@ -80,6 +80,10 @@ Public Class Lab2
     Private Sub VisibilityCheckBox_CheckedChanged(sender As Object, e As EventArgs) Handles VisibilityCheckBox.CheckedChanged
         VehicleInfoTextBox.Visible = VisibilityCheckBox.Checked
         MultilineTextBox.Visible = VisibilityCheckBox.Checked
+        VehicleInfoLabel.Visibe = VisibilityCheckBox.Checked
+        AutoPictureBox.Visible = VisibilityCheckBox.Checked
+        TruckPictureBox.Visible = VisibilityCheckBox.Checked
+        CommercialPictureBox.Visible = VisibilityCheckBox.Checked
 
     End Sub
 
