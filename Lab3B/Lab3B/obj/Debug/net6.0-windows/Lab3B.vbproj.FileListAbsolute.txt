@@ -1,0 +1,17 @@
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\bin\Debug\net6.0-windows\Lab3B.exe
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\bin\Debug\net6.0-windows\Lab3B.deps.json
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\bin\Debug\net6.0-windows\Lab3B.runtimeconfig.json
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\bin\Debug\net6.0-windows\Lab3B.dll
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\bin\Debug\net6.0-windows\Lab3B.pdb
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.vbproj.AssemblyReference.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.Form1.resources
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.vbproj.GenerateResource.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.AssemblyInfo.vb
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.vbproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.dll
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\refint\Lab3B.dll
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.pdb
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\Lab3B.genruntimeconfig.cache
+D:\ProgrammingProjects\Visual basic\VisualBasic-Labs\Lab3B\Lab3B\obj\Debug\net6.0-windows\ref\Lab3B.dll
